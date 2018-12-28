@@ -9,6 +9,11 @@ DNS 劫持方案支持大型网络环境，不影响正常流量 <br>
 [使用](https://kungfu-pro.github.io/doc/#/?id=%E6%A1%88%E4%BE%8B%E4%BD%BF%E7%94%A8)
 
 ## 更新日志
+* **v0.0.11** <br>
+  * 优化 NAT 会话管理
+  * 优化 MIPS 构建
+  * 支持 http/https 代理
+
 * **v0.0.10** <br>
   * 管理支持自动登录
   * 优化 tcp 超时策略
