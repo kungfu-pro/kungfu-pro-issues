@@ -1,6 +1,6 @@
 # Kung Fu Pro 
 
-下载:  https://github.com/kungfu-pro/kungfu-pro-issues/releases
+[![](https://img.shields.io/github/downloads/kungfu-pro/kungfu-pro-issues/total.svg?style=for-the-badge)](https://github.com/kungfu-pro/kungfu-pro-issues/releases)
 
 开箱即用的透明代理解决方案 <br>
 灵活的规则配置，兼容多种代理协议 <br>
