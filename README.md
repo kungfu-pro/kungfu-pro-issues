@@ -9,6 +9,10 @@
 [使用](https://kungfu-pro.github.io/doc/#/?id=%E6%A1%88%E4%BE%8B%E4%BD%BF%E7%94%A8)
 
 ## 更新日志
+* **v0.1.3** <br>
+  * 升级部分底层依赖
+  * 升级到 g 1.11.5
+
 * **v0.1.2** <br>
   * 修复规则组缓存
   * 修复 for openwrt x86 编译
