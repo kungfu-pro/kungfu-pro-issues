@@ -1,5 +1,6 @@
 # Kung Fu Pro 
 
+![](https://img.shields.io/github/tag-date/kungfu-pro/kungfu-pro-issues.svg?style=for-the-badge)
 [![](https://img.shields.io/github/downloads/kungfu-pro/kungfu-pro-issues/total.svg?style=for-the-badge)](https://github.com/kungfu-pro/kungfu-pro-issues/releases)
 
 开箱即用的透明代理解决方案 <br>
