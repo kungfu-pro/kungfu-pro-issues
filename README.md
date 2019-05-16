@@ -10,6 +10,10 @@
 [使用](https://kungfu-pro.github.io/doc/#/?id=%E6%A1%88%E4%BE%8B%E4%BD%BF%E7%94%A8)
 
 ## 更新日志
+* **v0.1.5** <br>
+  * 更新DNS依赖库
+  * 修复DNS对大UDP包对响应处理
+
 * **v0.1.4** <br>
   * 更新升级底层依赖
   * 更新升级管理界面（antd-pro）
