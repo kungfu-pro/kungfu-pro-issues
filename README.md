@@ -10,6 +10,10 @@
 [使用](https://kungfu-pro.github.io/doc/#/?id=%E6%A1%88%E4%BE%8B%E4%BD%BF%E7%94%A8)
 
 ## 更新日志
+* **v0.1.6** <br>
+  * 少量bugfix
+  * 升级到 go 1.12.5
+
 * **v0.1.5** <br>
   * 更新DNS依赖库
   * 修复DNS响应处理
